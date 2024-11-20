@@ -1,0 +1,40 @@
+img{
+    text-align: center;
+    background-color: cornflowerblue;
+}
+ul{
+    text-align: center;
+    list-style-type: none;
+}
+a{
+    font-family: Verdana;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+
+}
+h2{
+    color: darkblue;
+    border-bottom: 2px gray solid;
+    font-family: Verdana;
+}
+
+p{
+    text-align: left;
+    font-family: Verdana;
+}
+h3{
+    text-align: center;
+    color: darkblue;
+    font-family: Verdana;
+}
+h5{
+    text-align: center;
+    border-top: 2px gray solid;
+    font-family: Verdana;
+    color: darkblue;
+}
+a:hover{
+    background-color: red;
+}
